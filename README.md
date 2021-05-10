@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/joesanthosh24/preview-card-frontend-challenge)
-- Live Site URL: [Add live site URL here](https://stats-card-challenge.joesanthosh.surge.sh)
+- Solution URL: [github link](https://github.com/joesanthosh24/preview-card-frontend-challenge)
+- Live Site URL: [Site link](https://stats-card-challenge.joesanthosh.surge.sh)
 
 ## My process
 
