@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github link](https://github.com/joesanthosh24/preview-card-frontend-challenge)
-- Live Site URL: [Site link](https://stats-card-challenge.joesanthosh.surge.sh)
+- Live Site URL: [Site link](https://preview-card-frontend-challenge.vercel.app/)
 
 ## My process
 
