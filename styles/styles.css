@@ -113,4 +113,10 @@ p {
     text-align: center;
     margin: 5px auto 0;
   }
+  .card__infoStat h3 {
+    color: hsl(0, 0%, 100%);
+  }
+  .card__infoStat p {
+    color: hsla(0, 0%, 100%, 0.6);
+  }
 }
